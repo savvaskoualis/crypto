@@ -18,5 +18,5 @@ public class CryptoModule extends ReactContextBaseJavaModule {
   @Override
   public String getName() {
     return "Crypto";
-  }
+  };;
 }
