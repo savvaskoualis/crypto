@@ -32,5 +32,9 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+	compile 'io.jsonwebtoken:jjwt-api:0.10.5'
+    runtime 'io.jsonwebtoken:jjwt-impl:0.10.5',
+            'io.jsonwebtoken:jjwt-jackson:0.10.5'
+	compile group: 'commons-codec', name: 'commons-codec', version: '1.11'
 }
   
