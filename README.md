@@ -1,5 +1,5 @@
 
-# react-native-ancoria-util
+# react-native-crypto-util
 
 ## Getting started
 
