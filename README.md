@@ -1,6 +1,8 @@
 
 # react-native-crypto-util
 
+A react native library to encrypt/decrypt using AES GCM algorithm
+
 ## Getting started
 
 `$ npm install react-native-crypto-util`
